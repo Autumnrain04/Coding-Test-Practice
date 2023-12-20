@@ -21,5 +21,11 @@
     <ClCompile Include="Print Age.cpp">
       <Filter>Programmers Lv.0</Filter>
     </ClCompile>
+    <ClCompile Include="%.cpp">
+      <Filter>Programmers Lv.0</Filter>
+    </ClCompile>
+    <ClCompile Include="Protractor.cpp">
+      <Filter>Programmers Lv.0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
