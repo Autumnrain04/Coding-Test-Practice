@@ -27,5 +27,8 @@
     <ClCompile Include="Protractor.cpp">
       <Filter>Programmers Lv.0</Filter>
     </ClCompile>
+    <ClCompile Include="Sum of even numbers.cpp">
+      <Filter>Programmers Lv.0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

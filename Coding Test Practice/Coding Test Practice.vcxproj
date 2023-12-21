@@ -130,6 +130,7 @@
     <ClCompile Include="%.cpp" />
     <ClCompile Include="Print Age.cpp" />
     <ClCompile Include="Protractor.cpp" />
+    <ClCompile Include="Sum of even numbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
