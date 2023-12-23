@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="%.cpp" />
+    <ClCompile Include="Lamb Skewers.cpp" />
     <ClCompile Include="Print Age.cpp" />
     <ClCompile Include="Protractor.cpp" />
     <ClCompile Include="Sum of even numbers.cpp" />
